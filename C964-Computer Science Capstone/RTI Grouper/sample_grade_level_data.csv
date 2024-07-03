@@ -1,0 +1,87 @@
+name,gender,lunch,parental level of education,race/ethnicity,math score,reading score,writing score
+Student 1,male,standard,high school,group B,50,45,39
+Student 2,female,free/reduced,some high school,group E,41,48,42
+Student 3,female,standard,some high school,group B,57,66,70
+Student 4,male,free/reduced,associate's degree,group B,65,56,54
+Student 5,male,free/reduced,bachelor's degree,group C,53,56,55
+Student 6,male,free/reduced,bachelor's degree,group E,73,64,69
+Student 7,female,standard,high school,group B,81,90,85
+Student 8,female,standard,some college,group C,72,77,75
+Student 9,male,standard,some high school,group A,64,65,65
+Student 10,female,free/reduced,some high school,group C,48,49,48
+Student 11,female,free/reduced,associate's degree,group D,27,28,37
+Student 12,male,standard,high school,group B,73,67,65
+Student 13,male,free/reduced,some college,group A,61,59,56
+Student 14,male,standard,associate's degree,group C,86,73,70
+Student 15,male,standard,some college,group D,62,57,56
+Student 16,female,standard,some college,group A,62,69,67
+Student 17,male,standard,high school,group A,73,73,62
+Student 18,female,standard,some college,group D,80,82,87
+Student 19,female,standard,high school,group C,66,71,73
+Student 20,male,standard,associate's degree,group C,73,75,69
+Student 21,male,standard,some college,group E,84,75,69
+Student 22,male,standard,some college,group D,63,61,56
+Student 23,female,standard,some high school,group D,84,89,79
+Student 24,male,free/reduced,high school,group A,54,58,44
+Student 25,female,free/reduced,some college,group C,45,69,67
+Student 26,male,free/reduced,master's degree,group C,47,42,44
+Student 27,male,standard,associate's degree,group D,56,52,48
+Student 28,female,standard,some college,group C,63,74,72
+Student 29,female,standard,some high school,group B,65,64,64
+Student 30,female,standard,high school,group D,73,68,73
+Student 31,male,standard,high school,group D,90,78,75
+Student 32,female,standard,some high school,group E,79,77,79
+Student 33,female,standard,some college,group E,66,72,70
+Student 34,female,standard,high school,group E,63,63,73
+Student 35,male,standard,high school,group B,79,59,56
+Student 36,female,standard,some high school,group B,67,87,79
+Student 37,female,standard,high school,group C,64,69,70
+Student 38,male,standard,high school,group C,82,84,81
+Student 39,female,free/reduced,some college,group B,74,79,72
+Student 40,female,free/reduced,some college,group B,65,71,66
+Student 41,male,standard,high school,group B,61,45,47
+Student 42,male,standard,associate's degree,group D,61,51,48
+Student 43,female,standard,some high school,group B,68,68,66
+Student 44,male,free/reduced,high school,group C,61,47,49
+Student 45,male,free/reduced,associate's degree,group E,100,100,90
+Student 46,female,standard,some college,group C,61,69,74
+Student 47,female,standard,some high school,group C,77,87,85
+Student 48,male,free/reduced,high school,group C,63,53,49
+Student 49,female,standard,bachelor's degree,group B,62,69,67
+Student 50,male,standard,some high school,group D,88,72,66
+Student 51,male,free/reduced,some high school,group C,56,61,56
+Student 52,male,free/reduced,some college,group A,28,23,18
+Student 53,male,standard,some college,group B,62,47,41
+Student 54,female,standard,associate's degree,group C,55,61,52
+Student 55,male,free/reduced,bachelor's degree,group B,55,57,53
+Student 56,male,free/reduced,associate's degree,group E,92,72,78
+Student 57,male,standard,some high school,group E,87,81,72
+Student 58,female,standard,some college,group D,51,58,50
+Student 59,female,free/reduced,master's degree,group D,48,57,66
+Student 60,female,free/reduced,bachelor's degree,group E,64,56,58
+Student 61,female,standard,some high school,group E,83,84,85
+Student 62,male,standard,bachelor's degree,group C,96,86,87
+Student 63,female,free/reduced,some college,group D,66,80,73
+Student 64,female,standard,some college,group E,70,66,63
+Student 65,male,standard,bachelor's degree,group A,65,59,56
+Student 66,female,standard,high school,group D,57,65,72
+Student 67,female,free/reduced,high school,group C,41,42,40
+Student 68,female,free/reduced,master's degree,group A,50,64,72
+Student 69,female,free/reduced,some high school,group B,52,66,68
+Student 70,female,standard,high school,group E,51,46,47
+Student 71,female,standard,high school,group C,64,70,63
+Student 72,male,standard,some college,group C,100,82,89
+Student 73,male,free/reduced,associate's degree,group E,78,66,65
+Student 74,female,standard,high school,group D,73,77,71
+Student 75,female,free/reduced,some college,group D,62,77,73
+Student 76,male,standard,bachelor's degree,group A,69,62,61
+Student 77,male,standard,some high school,group C,49,46,38
+Student 78,male,free/reduced,associate's degree,group B,85,78,70
+Student 79,male,standard,some high school,group D,78,67,67
+Student 80,female,standard,some high school,group C,65,69,67
+Student 81,female,standard,associate's degree,group C,68,64,68
+Student 82,male,standard,some high school,group C,51,49,41
+Student 83,male,free/reduced,high school,group C,54,47,48
+Student 84,female,standard,high school,group B,51,61,57
+Student 85,male,standard,bachelor's degree,group D,71,58,67
+Student 86,female,standard,some high school,group B,60,67,70
